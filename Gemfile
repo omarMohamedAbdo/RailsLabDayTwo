@@ -57,3 +57,8 @@ gem 'bootstrap', '~> 4.4.1'
 
 gem 'mysql2', '~> 0.5.2'
 
+gem 'simple_form'
+
+gem 'better_errors', '~> 2.6'
+
+gem "bulma-rails", "~> 0.8.0"
